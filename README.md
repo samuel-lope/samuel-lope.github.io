@@ -6,6 +6,6 @@
 
 <div align="center">
   
- <img alt="Static Badge" src="https://img.shields.io/badge/samuel_lopes-%C2%A92024-%23000000?style=for-the-badge&logo=github&labelColor=%23b0b0b0">
+ <img alt="Static Badge" src="https://img.shields.io/badge/samuel_lopes-%C2%A92024-%23000000?style=for-the-badge&logo=github&labelColor=%23808080">
 
 </div>
